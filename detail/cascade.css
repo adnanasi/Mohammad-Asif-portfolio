@@ -1,0 +1,24 @@
+.question{
+background-color: rebeccapurple;
+margin:10px;
+border-radius:30px ;}
+h1 { 
+color:orange;
+text-align:center;
+padding-top: 20px;}
+body { 
+background-color:black;
+color: white;
+font-family: serif;}
+.light{
+padding:5%;}
+.answer{
+padding-left:5%;
+margin: 10px;}
+p { 
+font-size: 10px;}
+.alert{
+color:red;}
+h4 { 
+color: yellow;}
+
