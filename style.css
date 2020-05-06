@@ -9,8 +9,10 @@ line-height: 26px; }
 width:50% ;
 float: left;}
 .side-img{
-width: 50%;
-padding-left:25% ;}
+width:70%;
+padding-left:25% ;
+position: relative;
+top:25px ;}
 .btn{
 color:red;
 background-color: yellow;
@@ -35,6 +37,10 @@ padding: 10px;
 border-left: 1px solid orange;}
 h4 { 
 font-size: 30px;}
+.pad{
+top:25px ;
+right:20px;
+position:relative;}
 
 
 
