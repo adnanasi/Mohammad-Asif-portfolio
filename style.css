@@ -41,10 +41,24 @@ font-size: 30px;}
 top:35px ;
 right:20px;
 position:relative;}
-
-
-
-
+.c{
+color: red;
+background-color:yellow ;
+text-decoration:none;
+border-radius: 20px;
+padding:5px 10px;
+line-height: 40px;}
+.cn{
+font-size: 35px;
+color:yellow;
+text-decoration: underline ;}
+.contact{
+background-color: purple;
+padding: 10px 30px;
+border-radius: 20px;}
+.color{
+color:black ;
+padding-left: 10px;}
 
 
 
